@@ -1,1 +1,3 @@
 build/**
+!build/hello_world.bmp
+!build/x.bmp

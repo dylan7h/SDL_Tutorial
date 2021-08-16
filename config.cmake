@@ -27,8 +27,8 @@ list(APPEND LIB_LIST "SDL2main")
 # source lists
 # ===================================
 # list(APPEND SRC_LIST "01_HelloSDL/main.cpp")
-list(APPEND SRC_LIST "02_GettingAnImageOnTheScreen/main.cpp")
-# list(APPEND SRC_LIST "03_EventDrivenProgramming/main.cpp")
+# list(APPEND SRC_LIST "02_GettingAnImageOnTheScreen/main.cpp")
+list(APPEND SRC_LIST "03_EventDrivenProgramming/main.cpp")
 # list(APPEND SRC_LIST "04_KeyPresses/main.cpp")
 # list(APPEND SRC_LIST "05_OptimizedSurfaceLoadingAndSoft/main.cpp")
 
