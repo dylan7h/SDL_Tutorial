@@ -1,3 +1,8 @@
 build/**
 !build/hello_world.bmp
 !build/x.bmp
+!build/press.bmp
+!build/left.bmp
+!build/right.bmp
+!build/down.bmp
+!build/up.bmp
